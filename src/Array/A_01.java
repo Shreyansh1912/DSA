@@ -24,6 +24,7 @@ class GFG
             }
             Solution obj = new Solution();
             obj.countOddEven(arr, n);
+            
         }
     }
 }
